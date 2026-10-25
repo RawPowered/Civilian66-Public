@@ -148,4 +148,5 @@ Start with the game direction, then follow whichever part of the public project 
 </tr>
 </table>
 
+<table align="center"><tr><td bgcolor="#FFFFFF"><img src="assets/logo_66_winged_compact.png" alt="Civilian 66 winged 66 emblem" width="76" /></td></tr></table>
 <p align="center"><sub>CIVILIAN 66 · ACTIVE DEVELOPMENT</sub></p>
