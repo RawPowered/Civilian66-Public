@@ -1,93 +1,86 @@
 <div align="center">
-  <img src="assets/civilian66-wordmark.svg" width="540" alt="Civilian 66" />
+  <table align="center"><tr><td bgcolor="#FFFFFF" align="center">
+    <img src="assets/logo_civilian66_primary.png" width="500" alt="Civilian 66 winged logo" />
+  </td></tr></table>
   <br />
-  <strong>EXPLORE&nbsp;&nbsp;·&nbsp;&nbsp;SURVIVE&nbsp;&nbsp;·&nbsp;&nbsp;UNCOVER</strong>
+  <strong>CRASH. SURVIVE. BUILD. EARN A NAME.<br />BREAK THE SURFACE. CHANGE THE WORLD.</strong>
   <br /><br />
-  <a href="https://github.com/RawPowered/Civilian66-Public"><img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-f07824?style=for-the-badge" alt="In development" /></a>
-  <img src="https://img.shields.io/badge/GENRE-SCI--FI_SURVIVAL-111820?style=for-the-badge" alt="Science-fiction survival" />
-  <img src="https://img.shields.io/badge/CORE_LOOP-MINE_%C2%B7_CRAFT_%C2%B7_EXPLORE-187f9e?style=for-the-badge" alt="Mine, craft, explore" />
+  <em>A science-fiction adventure of survival, settlement, exploration, and first contact.</em>
 </div>
 
-<br />
-
 <p align="center">
-  <img src="assets/civilian66-hero.png" alt="A lone explorer and a field terminal light a path through a vast underground world." width="100%" />
+  <img src="assets/civilian66-bible-cover.png" width="620" alt="Official Civilian 66 Game Bible cover art: the armored civilian faces an alien surface world above a cutaway view of the underground mines." />
 </p>
 
-<h1 align="center">A deeper world lies below.</h1>
+## The adventure
 
-Civilian 66 is a science-fiction survival and exploration game about making a life underground, one hard-won foothold at a time. Mine through a vast subterranean world, turn what you recover into the tools and shelter you need, then push farther into places no one has mapped.
+Civilian 66 is a 3D science-fiction adventure about turning a failed landing into a civilization. On humanity's first large-scale one-way colony mission, the player is a numbered civilian who crash-descends into an infested, shifting underground. Survive, mine, fight, craft, and build: make a settlement where there was no prepared colony and keep expanding it against a dangerous living world.
 
-Your first goal is to stay alive. The deeper you go, the more the world asks of you—and the more there is to discover.
+Reconstruct the five-part heavy drill and break through to the surface. This opens a second game layer: frontier exploration, first contact, and a different kind of survival. The presumed-dead Civilian 143, Clarissa, reached the surface first. Meeting her is the earned-name moment for Civilian 66, and she brings a new survival language built on stealth, intelligence, and opportunism. Bruce turns survival into infrastructure, commerce, and repeatable settlement growth.
 
-> **The promise:** survival with purpose, mining that changes the world around you, and exploration that opens into a larger story.
+The world changes again with the Subvergence, as magic transforms a planet that did not begin with it. The Mines still matter; the settlement keeps growing; and the colony's journey ultimately reaches back to Earth with a satellite message: **"Hello World."**
 
-## What kind of game to expect
+The player does not begin as a chosen hero. They begin as **Civilian 66**. The name—and the person behind it—are earned through the adventure.
 
-- **Survival adventure:** manage risk and supplies as you venture away from safety.
-- **Hands-on mining:** cut through rock, open routes, and make choices about where—and how—to dig.
-- **Resource-driven growth:** recover useful materials, process them, and improve your ability to survive and explore.
-- **A world to read:** follow geology, cave life, wreckage, and traces of human activity to understand your surroundings.
-- **A story that expands:** begin with immediate survival in the mines; the wider world and its history unfold through exploration.
+## A game that grows with the journey
 
-Civilian 66 is being built as a 3D, authored science-fiction game with interconnected systems for control, equipment, mining, world simulation, progression, and presentation. The exact mix of combat, crafting, construction, and campaign systems will be refined as development continues.
+Civilian 66 layers its genres as the world opens. Underground survival remains part of the game, while new places add new ways to explore, survive, and change the world.
 
-## The experience
-
-### 01 — Find a foothold
-
-Start with limited equipment in a hostile underground environment. Learn what can be trusted, secure the essentials, and make a temporary refuge dependable enough to return to.
-
-### 02 — Make your own way
-
-Mining is both a way to gather resources and a way to travel. Open useful passages, choose between routes, and learn how the surrounding world responds to your work.
-
-### 03 — Turn resources into capability
-
-Bring materials back, process what you find, and use your gains to become better equipped for the next expedition. Progress comes from preparing well and deciding what is worth the risk.
-
-### 04 — Go farther, learn more
-
-Each descent reveals new terrain, life, and evidence of a much larger human story. The mines are the beginning of the journey, not its whole horizon.
-
-## World & visual direction
-
-The first environment direction pairs rugged, wet stone and improvised human equipment with sparse bioluminescent life. Warm amber work lights give way to cool blue and teal depths. The mood is grounded and atmospheric: a place shaped by geology, labor, isolation, and things still unknown.
-
-<p align="center">
-  <img src="assets/start-pocket-concept.png" alt="Concept direction for a mining refuge and the surrounding underground routes." width="100%" />
-</p>
-
-<p align="center"><em>Starting-zone concept direction · work in progress</em></p>
-
-<p align="center">
-  <img src="assets/tunnel-crust-concept.png" alt="Tunnel Crust environment and material concept board." width="100%" />
-</p>
-
-<p align="center"><em>Tunnel Crust environment study · work in progress</em></p>
-
-## Design pillars
-
-| Pillar | What it means in play |
+| Journey | What to expect |
 |---|---|
-| **Survival earns progress** | Preparation, a dependable refuge, and careful expeditions make deeper exploration possible. |
-| **The world is the route** | Mining changes the spaces you move through and the opportunities you can reach. |
-| **Resources have a journey** | Finding, carrying, processing, and using materials connect exploration to growth. |
-| **Systems serve the fiction** | Tools, world simulation, progression, and presentation support one coherent lived-in world. |
-| **Discovery keeps widening** | Each new place should raise useful questions about the world and its people. |
+| **The Mines** | Violent frontier survival in a procedurally shifting underground. Explore, fight, mine, craft, build, trade, and defend a growing settlement. Recover the parts needed to reconstruct the drill and reach the surface. |
+| **The Surface** | A second major game layer: open-ended 3D exploration across a remote, alien frontier. Meet Clarissa, learn a new survival language built around stealth and reconnaissance, and begin a more complicated first contact. |
+| **The Subvergence** | A planetary transformation introduces magic and changes familiar places and life. The game expands into a new form of exploration and danger without abandoning mining, combat, or settlement defense. |
+| **A future for the colony** | Grow the settlement into a civilization and build the satellite that sends Earth's first message from the colony: **"Hello World."** |
+
+Reaching the surface is a beginning, not a finish. Underground resources and the settlement remain valuable after the frontier above opens.
+
+## The player loop
+
+1. Leave relative safety and enter a dangerous region of the Mines or, later, the surface.
+2. Explore, scout, fight, and find resources or useful territory.
+3. Mine or recover materials while managing supplies and expedition risk.
+4. Return to the settlement to process resources, trade, and prepare.
+5. Spend Credits, materials, and Skill Points on equipment, research, and infrastructure.
+6. Build or improve defenses, utilities, storage, interiors, and the settlement itself.
+7. Reach new ecology, story, merchant, and boss milestones; then set out at a larger scale.
+
+Major progress comes from what the player establishes, powers, researches, and protects. Progress should make the player more capable, the settlement more viable, or the world more open.
+
+## What defines Civilian 66
+
+- **Violent frontier survival:** safety must be made, defended, and expanded.
+- **Build to progress:** settlement infrastructure and hard-won technology move the campaign forward.
+- **Exploration with consequences:** discovering new territory brings resources, new ecologies, pressure, and future challenges.
+- **Civilization is gameplay:** civilians, shops, interiors, trade, services, and settlement growth are active systems—not end-of-game decoration.
+- **A changing genre arc:** underground survival expands into surface exploration and stealth, then transforms again with the Subvergence. Mining and defense continue to matter throughout.
+- **One connected 3D world:** the presentation supports interchangeable first- and third-person cameras. The preserved 2D *Crawl Brawl* becomes an arcade game within the world.
+
+## World and art direction
+
+The visual journey changes with the game. The Mines are dark and material-rich; threats and useful objects read clearly against them. The surface offers visual release while remaining alien and dangerous. Settlement buildings should feel assembled, repaired, and expanded by survivors. After the Subvergence, familiar places transform rather than giving way to a disconnected fantasy world.
+
+<p align="center">
+  <img src="assets/civilian66-hero-design.png" width="100%" alt="Civilian 66 main character production sheet, showing the armored protagonist, traversal and mining poses, tools, and material palette." />
+</p>
+
+<p align="center"><em>Main character art direction · production concept, not final in-game footage</em></p>
+
+## Game identity
+
+- **Genre:** exploration, defense, building, crafting, action combat, and strategy with persistent settlement growth.
+- **Launch direction:** polished single-player game. Co-op is not a launch promise.
+- **Platform target:** Windows PC via Steam, designed with Steam Deck in mind.
+- **Presentation:** modern 3D gameplay with interchangeable first- and third-person cameras.
 
 ## Development status
 
-Civilian 66 is in active development. The private production project contains the full source, design bible, and working assets. This public repository is a branded project overview and selected design reference; it is not the complete game or a playable release. Descriptions here communicate the intended direction, and do not claim that every planned feature is already implemented.
+Civilian 66 is in active development. This public repository gives an overview of the designed game and selected development context; it is not a playable release. The full Game Bible and production materials remain private. The Unreal code maps here describe the current implementation line, while the creative direction summarized above follows the current **Game Bible v1.10**.
 
-## Explore the project
+## Project references
 
-- [Architecture & code sets](ARCHITECTURE.md) — how the game's major systems fit together
-- [Resource credits](RESOURCES.md) — selected third-party sources and attribution
+- [Architecture & code sets](ARCHITECTURE.md)
+- [Resource credits](RESOURCES.md)
 - [Private production repository](https://github.com/RawPowered/Civilian66) — access is restricted
 
-<div align="center">
-  <br />
-  <strong>CIVILIAN 66</strong><br />
-  <sub>STAY ALIVE. GO DEEPER.</sub>
-</div>
+<div align="center"><sub>CRASH. SURVIVE. BUILD. EARN A NAME. BREAK THE SURFACE. CHANGE THE WORLD.</sub></div>
