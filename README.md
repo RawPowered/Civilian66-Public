@@ -1,17 +1,17 @@
 <h1 align="center">
-  <img src="assets/logo_civilian66_primary.png" width="540" alt="Civilian 66 — official winged wordmark" />
+  <img src="assets/logo_civilian66_primary.png" width="540" alt="Civilian 66 official winged wordmark" />
 </h1>
 
 <p align="center">
   <strong>CRASH. SURVIVE. BUILD. EARN A NAME.<br />BREAK THE SURFACE. CHANGE THE WORLD.</strong><br />
-  <em>A science-fiction adventure from the underground to the surface — and beyond.</em>
+  <em>A science-fiction adventure from the underground to the surface and beyond.</em>
 </p>
 
 <table align="center">
 <tr>
 <td width="55%" valign="middle">
 <h2>One civilian. One living world. A colony to build.</h2>
-<p>On humanity's first large-scale one-way colony mission, the player crash-descends into an infested, shifting underground as <strong>Civilian 66</strong> — a number, not a chosen hero. Survive the Mines, make a settlement where none was prepared, and reconstruct the five-part drill that can break through to the surface.</p>
+<p>On humanity's first large-scale one-way colony mission, the player crash-descends into an infested, shifting underground as <strong>Civilian 66</strong>; a number, not a chosen hero. Survive the Mines, make a settlement where none was prepared, and reconstruct the five-part drill that can break through to the surface.</p>
 <p>Above, a new frontier opens into exploration and first contact. The presumed-dead Civilian 143, Clarissa, reached the surface first; meeting her is the moment Civilian 66 earns a name. Later, the Subvergence transforms the planet with magic. The journey ends with a civilization capable of sending Earth its first message from the colony: <strong>"Hello World."</strong></p>
 <p><strong>Designed as:</strong> exploration · defense · building · crafting · action combat · strategy · persistent settlement growth</p>
 </td>
@@ -43,7 +43,7 @@ Civilian 66 is designed to grow in scale and change its survival language as the
 </td>
 <td width="50%" valign="top">
 <h3>02 · The Surface</h3>
-<p>Breaking through opens a second game layer: 3D frontier exploration and first contact. Meet Clarissa, learn stealth and reconnaissance, and discover how much of the planet—and the colony's story—remains unknown.</p>
+<p>Breaking through opens a second game layer: 3D frontier exploration and first contact. Meet Clarissa, learn stealth and reconnaissance, and discover how much of the planet, and the colony's story, remains unknown.</p>
 </td>
 </tr>
 <tr>
